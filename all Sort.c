@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-
+\\86941481
 #define LARGURA_TELA 80
 
 void limparTela() {
